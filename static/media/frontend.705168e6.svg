@@ -1,0 +1,33 @@
+<svg version="1.1" baseProfile="full" width="282" height="382" viewbox="0 0 282 382" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:italic bold; font-size:11pt; font-family:'Helevetica-Regular', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round">
+  <title >nomnoml</title>
+  <desc >[FRONTEND|
+#fill: transparent
+#fontSize: 11
+#spacing: 60
+#font: Helevetica-Regular
+  [JAVASCRIPT]--[ANGULAR]
+  [ANGULAR]--[REACT JS]
+  [REACT JS]--[JQUERY]
+  [HTML]--[SCSS]
+]</desc>
+  <rect x="0" y="0" height="382" width="282" style="stroke:none; fill:transparent;"></rect>
+  <rect x="13.5" y="13.5" height="356" width="256" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="141.5" y="33.9" style="fill: #33322E;text-anchor: middle;">FRONTEND</text>
+  <path d="M13.5 43.5 L269.5 43.5" style="stroke:#33322E;fill:none;stroke-dasharray:none;"></path>
+  <path d="M82 86.5 L82 116.5 L82 146.5 L82 146.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+  <path d="M82 176.5 L82 206.5 L82 236.5 L82 236.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+  <path d="M82 266.5 L82 296.5 L82 326.5 L82 326.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+  <path d="M227 86.5 L227 116.5 L227 146.5 L227 146.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+  <rect x="26.5" y="56.5" height="30" width="111" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="82" y="76.9" style="fill: #33322E;text-anchor: middle;">JAVASCRIPT</text>
+  <rect x="40.5" y="146.5" height="30" width="83" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="82" y="166.9" style="fill: #33322E;text-anchor: middle;">ANGULAR</text>
+  <rect x="36.5" y="236.5" height="30" width="92" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="82.5" y="256.9" style="fill: #33322E;text-anchor: middle;">REACT JS</text>
+  <rect x="45.5" y="326.5" height="30" width="73" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="82" y="346.9" style="fill: #33322E;text-anchor: middle;">JQUERY</text>
+  <rect x="197.5" y="56.5" height="30" width="59" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="227" y="76.9" style="fill: #33322E;text-anchor: middle;">HTML</text>
+  <rect x="200.5" y="146.5" height="30" width="54" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="227.5" y="166.9" style="fill: #33322E;text-anchor: middle;">SCSS</text>
+</svg>
