@@ -1,0 +1,19 @@
+<svg version="1.1" baseProfile="full" width="239" height="112" viewbox="0 0 239 112" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:italic bold; font-size:11pt; font-family:'Helevetica-Regular', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round">
+  <title >nomnoml</title>
+  <desc >[BACKEND|
+#fill: transparent
+#fontSize: 11
+#spacing: 60
+#font: Helevetica-Regular
+  [NODEJS]
+  [JAVA]
+]</desc>
+  <rect x="0" y="0" height="112" width="239" style="stroke:none; fill:transparent;"></rect>
+  <rect x="13.5" y="13.5" height="86" width="213" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="120" y="33.9" style="fill: #33322E;text-anchor: middle;">BACKEND</text>
+  <path d="M13.5 43.5 L226.5 43.5" style="stroke:#33322E;fill:none;stroke-dasharray:none;"></path>
+  <rect x="26.5" y="56.5" height="30" width="73" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="63" y="76.9" style="fill: #33322E;text-anchor: middle;">NODEJS</text>
+  <rect x="159.5" y="56.5" height="30" width="54" style="stroke:#33322E;fill:transparent;stroke-dasharray:none;"></rect>
+  <text x="186.5" y="76.9" style="fill: #33322E;text-anchor: middle;">JAVA</text>
+</svg>
